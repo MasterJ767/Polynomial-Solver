@@ -1,0 +1,20 @@
+﻿  Polynomial.cpp
+H:\CSC8501\Polynomial\Polynomial\Polynomial\Polynomial.cpp(53,31): warning C4018: '<': signed/unsigned mismatch
+H:\CSC8501\Polynomial\Polynomial\Polynomial\Polynomial.cpp(106,61): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+H:\CSC8501\Polynomial\Polynomial\Polynomial\Polynomial.cpp(108,80): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+H:\CSC8501\Polynomial\Polynomial\Polynomial\Polynomial.cpp(125,90): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+H:\CSC8501\Polynomial\Polynomial\Polynomial\Polynomial.cpp(192,27): warning C4018: '<': signed/unsigned mismatch
+H:\CSC8501\Polynomial\Polynomial\Polynomial\Polynomial.cpp(255,31): warning C4018: '<': signed/unsigned mismatch
+  Polynomial.vcxproj -> H:\CSC8501\Polynomial\Polynomial\Debug\Polynomial.exe

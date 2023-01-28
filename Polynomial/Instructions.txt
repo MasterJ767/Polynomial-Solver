@@ -1,0 +1,9 @@
+run program with arguments:
+
+./Polynomial.exe 0 "function in quotes or speech marks" start_num end_num out_filename
+./Polynomial.exe 1 in_filename
+./Polynomial.exe 2 in_filename out_filename
+
+option 0 generates a sequence from an input function, displays to user then writes to file
+option 1 reads in a sequence and derives an equation
+option 2 reads in several sequences, derives their equations and writes them to an output file
